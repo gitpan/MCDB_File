@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               MCDB_File
-version:            0.01
+version:            0.0101
 abstract:           Perl extension for access to mcdb constant databases 
 author:
     - gstrauss  <code () gluelogic.com>
@@ -14,9 +14,9 @@ build_requires:
 requires:
     Test::More:  0
 resources:
-    homepage:    https://github.com/gstrauss/MCDB_File
+    homepage:    https://github.com/gstrauss/mcdb
     license:     http://dev.perl.org/licenses/
-    repository:  https://github.com/gstrauss/MCDB_File
+    repository:  https://github.com/gstrauss/mcdb
 no_index:
     directory:
         - t
