@@ -10,7 +10,7 @@ use Exporter ();
 
 @ISA = qw(Exporter DynaLoader);
 
-$VERSION = '0.0104';
+$VERSION = '0.0105';
 
 =head1 NAME
 
@@ -41,7 +41,7 @@ MCDB_File - Perl extension for access to mcdb constant databases
 =head1 DESCRIPTION
 
 B<MCDB_File> is a module which provides a Perl interface to B<mcdb>.
-mcdb is originally based on Dan Berstein's B<cdb> package.
+mcdb is originally based on Dan Bernstein's B<cdb> package.
 
     mcdb - fast, reliable, simple code to create, read constant databases
 
